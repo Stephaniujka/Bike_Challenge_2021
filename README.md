@@ -13,3 +13,9 @@ To visualize the bike traffic in Montpellier, we created a widget (graph of the 
 Data load from : https://data.montpellier3m.fr/dataset/comptages-velo-et-pieton-issus-des-eco-compteurs/resource/1a6d90b6-6ba7-4ed9-a092
 
 Widget link : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Stephaniujka/Bike_Challenge_2021.git/master?filepath=Visualization%2Fwidget.ipynb)
+
+
+The gif exceed 100 Mb. You can find it compressed in Visualization file (`bike_traffic_animated.zip`) and download the file directly from Github platform, or you can download it by clicking here : 
+
+https://filesender.renater.fr/?s=download&token=ff37a4e1-c6a6-43ad-98e9-9fa18eebdb4f
+
