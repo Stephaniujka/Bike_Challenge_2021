@@ -19,3 +19,4 @@ The gif exceed 100 Mb. You can find it compressed in Visualization file (`bike_t
 
 https://filesender.renater.fr/?s=download&token=ff37a4e1-c6a6-43ad-98e9-9fa18eebdb4f
 
+The files `Montpellier_map_al` and `Montpellier images` from the code to create the gif are too heavy, and there are too many images in each file. So there are not present in this repository.
